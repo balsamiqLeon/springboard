@@ -116,7 +116,7 @@ UI design is a core part of UX in the way that food is a core part of an eating 
 
 You have probably seen the [Venn diagrams](https://visual.ly/community/infographic/computers/disciplines-user-experience-design) with a dozen circles showing the overlap between UI and UX. They are accurate. But instead of looking at all of the areas that aren't UX, let's dive into a few of them deeply for a different perspective, again, using our culinary analogy.
 
-Earlier, we talked about a few things that make a restaurant good or bad besides the food. In the same way a user can have a good or bad experience with your product, separate from the quality of the food.
+Earlier, we talked about a few things that make a restaurant good or bad besides the food. In the same way a user can have a good or bad experience with your product, separate from the quality of the interface.
 
 
 ### UX Is About Expectations
