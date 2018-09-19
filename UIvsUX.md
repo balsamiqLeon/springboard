@@ -1,4 +1,4 @@
-# The Difference Between UI and UX Design
+# UI vs. UX - A Culinary Comparison
 
 ## The Cooking Analogy
 
@@ -42,7 +42,7 @@ So, let's begin by stepping into the shoes of a UI designer to see how they migh
 
 ---
 
-## UI Design Layer 1: Controls
+### UI Design Layer 1: Controls
 
 User interface controls are like ingredients in a recipe. Choosing the appropriate ones and using them in the right way lays a foundation for the rest of the interface. 
 
@@ -60,7 +60,7 @@ Each one of these controls was selected for a specific reason. **UI design is co
 
 ---
 
-## UI Design Layer 2: Patterns
+### UI Design Layer 2: Patterns
 
 Returning to our analogy, even with the right ingredients/controls, things can still go wrong. They can work well together, or not. This is where the process of creating patterns comes in. 
 
@@ -76,7 +76,7 @@ It can be useful to consider this layer of UI design even before moving on to th
 
 ---
 
-## UI Design Layer 3: Design Principles
+### UI Design Layer 3: Design Principles
 
 Aesthetics matter. And they're not as subjective as many people think. A meal has sensory characteristics beyond the response from your tongue. What it looks, smells, and even feels like affects its taste.
 
@@ -92,7 +92,7 @@ Either way, the goal is to take your attention away from the content in order to
 
 ---
 
-## UI Design Layer 4: Templates
+### UI Design Layer 4: Templates
 
 Lastly, making dishes that are consistent and taste good together can be viewed as the difference between a cook and a chef. Templates are a UI designer's secret weapon.
 
@@ -108,3 +108,101 @@ Other templates for this site might include one for checking out and purchasing,
 
 ---
 
+# So What the Heck Is UX Then?
+
+So, now let's talk about the areas of UX that *aren't* UI design. 
+
+UI design is a core part of UX in the way that food is a core part of an eating experience. What are the parts of a user's experience with a digital product that aren't impacted by the areas described above?
+
+You have probably seen the Venn diagrams with a dozen circles showing the overlap between UI and UX. They are accurate. But instead of looking at all of the areas that aren't UX, let's dive into a few of them deeply for a different perspective, again, using our culinary analogy.
+
+(venn diagram here?)
+
+Earlier, we talked about a few things that make a restaurant good or bad besides the food. In the same way a user can have a good or bad experience with your product, separate from the quality of the food.
+
+
+### Expectations Shape Experience
+### UX is about expectations
+
+There's a restaurant near my house that I avoided for years. The outside looks like this:
+
+![](images/mississippi-catfish.jpg)
+
+You can probably see why. It is in a building with a smog check station on one side and a car muffler store on the other.
+
+And yet...
+
+![](images/yelp-review.jpg)
+
+I believe that the expectations set by the restaurant's appearance affected people's perception of the food. They expect a quick, inexpensive meal, but maybe don't have high hopes for the food itself. The fact that the food is very good is what is called a [delighter](link) - something that goes beyond expectations (given the context, the same food might only meet expectations elsewhere).
+
+Now look at this website:
+
+![](images/craigslist-new.png)
+
+The design is very utilitarian. It's not pretty. It sets the expectation that it exists to serve a simple purpose, but, like the catfish restaurant, you could be forgiven for expecting the a poor result from it. 
+
+And yet for decades people have been pleasantly surprised (delighted, even) by the usefulness of Craigslist and its ability to connect them to just what they were looking for. That delight is, in part, due to its functional appearance.
+
+The lesson here is not that ugly design is good, but that people's expectations are shaped by events that occur before they even touch a user interface. Part of UX is to design the pre-use experience with this in mind. 
+
+### Performance and Perception
+
+### UX is about (perceived) performance
+
+Wait, isn't making the application fast the developers job, you say? What does UX have to do with speed?
+
+Let's say that the UI designer is the cook in a restaurant. Clearly, they are the key determinant in how fast the food comes out. 
+
+But think about what the waiter/waitress does? They usually first ask you if you want something to drink. This doesn't take any time for the cook, and it gives the customer something to do while they wait. And then after you order they bring you some bread that been prepared in advance. Within minutes of sitting down you are drinking and eating something, you are already having a restaurant experience, and you haven't even tried any of the real food yet. Lastly, if the food is taking an extra long time, a good waiter or waitress will update you, possibly telling you how much longer you can expect to wait.
+ 
+Even in a casual restaurant, you get an order number, which gives you an idea of how long you'll have to wait.
+
+Waiting 20 minutes for your food with nothing on the table feels a long longer than 20 minutes with a good glass of wine and some snacks. It's not the absolute speed that matters as much as the *perceived* speed.
+
+So what does this have to do with UX?
+
+Have you seen something like this before?
+
+![](images/youtube-skeleton-screens.png)
+
+Sites like YouTube and Facebook use skeleton or placeholder screens to show you something almost immediately. These are the bread and butter that the waiter/waitress gives you. By giving you a hint, a preview, of what is coming, you begin the experience earlier and the wait time doesn't feel as long.
+
+These are really just a more customized version of the perennial loading indicator.
+
+(loading gif? and/or balsamiq loading screen)
+
+UX is concerned with the transitions between experiences.
+
+
+### UX is about the journey
+
+### UX is about what happens over time
+
+A user interface is mostly a static object. It may have dynamic elements, but, generally speaking, a software product consists of a series of user interface screens connected together. 
+
+A user's experience, however, is very dynamic and can't be captured in a moment in time. Just like a customer's restaurant experience begins when they walk in the door (or even before, as we saw above) and ends when they leave. It is how they are greeted, what the interior looks like, how much the food costs, the friendliness of the waitstaff, the music, the lighting, and their own individual mood and expectations. 
+
+And each of those factors has an impact as they occur over the duration of the experience.
+
+The same is true for software.
+
+A great tool that UX designers use for visualizing and reflecting this reality is a [**journey map**](https://www.nngroup.com/articles/customer-journey-mapping/)
+
+![](https://media.nngroup.com/media/editor/2016/07/18/deconstruction_of_a_customer_journey_map.png)
+
+From the Nielsen Norman Group website:
+
+> In its most basic form, journey mapping starts by compiling a series of user goals and actions into a timeline skeleton. Next, the skeleton is fleshed out with user thoughts and emotions in in order to create a narrative. Finally, that narrative is condensed into a visualization used to communicate insights that will inform design processes.
+
+UX is concerned with the "touch points" along the experience.
+
+### Goals
+
+### UX is about matching the product to the user's goals
+
+Finally, a UX designer has to think about whether the product addresses the user's goals. Simply put, does the thing actually do what I want it to do, or is it the right solution to the wrong problem?
+
+If I really want a hamburger and all you serve is chicken, I'm going to leave disappointed, regardless of how tasty the chicken is or how pleasant the ambiance is.
+
+In the end, UX is about user advocacy. A UX designer should know know what users want and don't want and what things are most important to them.
