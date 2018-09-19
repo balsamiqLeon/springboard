@@ -149,7 +149,7 @@ Wait, isn't making the application fast the developers job, you say? What does U
 
 Let's say that the UI designer is the cook in a restaurant. Clearly, they are the key determinant in how fast the food comes out. 
 
-But think about what the waiter/waitress does? They usually first ask you if you want something to drink. This doesn't take any time for the cook, and it gives the customer something to do while they wait. And then after you order they bring you some bread that been prepared in advance. Within minutes of sitting down you are drinking and eating something, you are already having a restaurant experience, and you haven't even tried any of the real food yet. Lastly, if the food is taking an extra long time, a good waiter or waitress will update you, possibly telling you how much longer you can expect to wait.
+But think about what the waiter/waitress does? They usually first ask you if you want something to drink. This doesn't take any time for the cook, and it gives the customer something to do while they wait. And then after you order they bring you some bread that's been prepared in advance. Within minutes of sitting down you are drinking and eating something, you are already having a restaurant experience, and you haven't even tried any of the real food yet. Lastly, if the food is taking an extra long time, a good waiter or waitress will update you, possibly telling you how much longer you can expect to wait.
  
 Even in a casual restaurant, you get an order number, which gives you an idea of how long you'll have to wait.
 
