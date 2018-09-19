@@ -114,9 +114,7 @@ So, now let's talk about the areas of UX that *aren't* UI design.
 
 UI design is a core part of UX in the way that food is a core part of an eating experience. What are the parts of a user's experience with a digital product that aren't impacted by the areas described above?
 
-You have probably seen the Venn diagrams with a dozen circles showing the overlap between UI and UX. They are accurate. But instead of looking at all of the areas that aren't UX, let's dive into a few of them deeply for a different perspective, again, using our culinary analogy.
-
-(venn diagram here?)
+You have probably seen the [Venn diagrams](https://visual.ly/community/infographic/computers/disciplines-user-experience-design) with a dozen circles showing the overlap between UI and UX. They are accurate. But instead of looking at all of the areas that aren't UX, let's dive into a few of them deeply for a different perspective, again, using our culinary analogy.
 
 Earlier, we talked about a few things that make a restaurant good or bad besides the food. In the same way a user can have a good or bad experience with your product, separate from the quality of the food.
 
@@ -170,7 +168,7 @@ Sites like YouTube and Facebook use skeleton or placeholder screens to show you 
 
 These are really just a more customized version of the perennial loading indicator.
 
-(loading gif? and/or balsamiq loading screen)
+![](images/balsamiq-loading-screen.png)
 
 UX is concerned with the transitions between experiences.
 
