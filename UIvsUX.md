@@ -137,7 +137,7 @@ Now look at this website:
 
 ![](images/craigslist-new.png)
 
-The design is very utilitarian. It's not pretty. It sets the expectation that it exists to serve a simple purpose, but, like the catfish restaurant, you could be forgiven for expecting the a poor result from it. 
+The design is very utilitarian. It's not pretty. It sets the expectation that it exists to serve a simple purpose, but, like the catfish restaurant, you could be forgiven for expecting a poor result from it. 
 
 And yet for decades people have been pleasantly surprised (delighted, even) by the usefulness of Craigslist and its ability to connect them to just what they were looking for. That delight is, in part, due to its functional appearance.
 
