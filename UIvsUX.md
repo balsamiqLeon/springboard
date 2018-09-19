@@ -108,7 +108,7 @@ Other templates for this site might include one for checking out and purchasing,
 
 ---
 
-# So What the Heck Is UX Then?
+## So What the Heck Is UX Then?
 
 So, now let's talk about the areas of UX that *aren't* UI design. 
 
@@ -119,8 +119,7 @@ You have probably seen the [Venn diagrams](https://visual.ly/community/infograph
 Earlier, we talked about a few things that make a restaurant good or bad besides the food. In the same way a user can have a good or bad experience with your product, separate from the quality of the food.
 
 
-### Expectations Shape Experience
-### UX is about expectations
+### UX Is About Expectations
 
 There's a restaurant near my house that I avoided for years. The outside looks like this:
 
@@ -144,9 +143,7 @@ And yet for decades people have been pleasantly surprised (delighted, even) by t
 
 The lesson here is not that ugly design is good, but that people's expectations are shaped by events that occur before they even touch a user interface. Part of UX is to design the pre-use experience with this in mind. 
 
-### Performance and Perception
-
-### UX is about (perceived) performance
+### UX Is About (Perceived) Performance
 
 Wait, isn't making the application fast the developers job, you say? What does UX have to do with speed?
 
@@ -172,10 +169,7 @@ These are really just a more customized version of the perennial loading indicat
 
 UX is concerned with the transitions between experiences.
 
-
-### UX is about the journey
-
-### UX is about what happens over time
+### UX Is About What Happens Over Time
 
 A user interface is mostly a static object. It may have dynamic elements, but, generally speaking, a software product consists of a series of user interface screens connected together. 
 
@@ -195,9 +189,7 @@ From the Nielsen Norman Group website:
 
 UX is concerned with the "touch points" along the experience.
 
-### Goals
-
-### UX is about matching the product to the user's goals
+### UX Is About Matching the Product to the User's Goals
 
 Finally, a UX designer has to think about whether the product addresses the user's goals. Simply put, does the thing actually do what I want it to do, or is it the right solution to the wrong problem?
 
