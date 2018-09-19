@@ -131,7 +131,7 @@ And yet...
 
 ![](images/yelp-review.jpg)
 
-I believe that the expectations set by the restaurant's appearance affected people's perception of the food. They expect a quick, inexpensive meal, but maybe don't have high hopes for the food itself. The fact that the food is very good is what is called a [delighter](link) - something that goes beyond expectations (given the context, the same food might only meet expectations elsewhere).
+I believe that the expectations set by the restaurant's appearance affected people's perception of the food. They expect a quick, inexpensive meal, but maybe don't have high hopes for the food itself. The fact that the food is very good is what is called a [delighter](http://www.uxbooth.com/articles/discovering-table-stakes-delighters/) - something that goes beyond expectations (given the context, the same food might only meet expectations elsewhere).
 
 Now look at this website:
 
