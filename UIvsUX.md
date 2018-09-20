@@ -181,7 +181,7 @@ The same is true for software.
 
 A great tool that UX designers use for visualizing and reflecting this reality is a [**journey map**](https://www.nngroup.com/articles/customer-journey-mapping/)
 
-![](https://media.nngroup.com/media/editor/2016/07/18/deconstruction_of_a_customer_journey_map.png)
+![journey map](images/nng-journey-map.png)
 
 From the Nielsen Norman Group website:
 
