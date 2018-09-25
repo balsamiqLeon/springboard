@@ -165,6 +165,8 @@ Sites like YouTube and Facebook use skeleton or placeholder screens to show you 
 
 These are really just a more customized version of the perennial loading indicator.
 
+{fix this image}
+
 ![](images/balsamiq-loading-screen.png)
 
 UX is concerned with the transitions between experiences.
